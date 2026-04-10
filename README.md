@@ -1,14 +1,14 @@
-# 📄 Gerador de Currículo com IA
+# Gerador de Currículo com IA
 
 Aplicação em Python que gera currículos personalizados com base na descrição da vaga utilizando IA.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 - Geração automática de currículo
 - Adaptação baseada na vaga
 - Exportação em PDF e DOCX
 - Interface web com Streamlit
 
-## 🛠️ Tecnologias
+## Tecnologias
 - Python
 - Streamlit
 - OpenAI API
